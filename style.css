@@ -8,3 +8,15 @@ h1{
 .color{
     color: navy;
 }
+section{
+    display: flex;
+}
+half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.name-color{
+    color: orangered;
+}
